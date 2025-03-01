@@ -1,16 +1,13 @@
 > [!WARNING]  
-> recently discord has been rolling out a new UI update ("desktop visual refresh") to some users, which breaks the theme. if you have this update, you have two options:
->
-> 1. join the [discord server](https://discord.gg/nz87hXyvcy) and see the pinned message in #important for how to revert the update. then you can use the normal theme.
-> 2. use the experimental refresh version of midnight
->    - download this [theme file](https://github.com/refact0r/midnight-discord/blob/master/themes/midnight-refresh.theme.css)
->    - or use this theme link: <https://refact0r.github.io/midnight-discord/build/midnight.css>
+> This work has been created from [Midnight-discord](https://github.com/refact0r/midnight-discord/tree/master), part of the code is identical since it has been copied
+> and pasted, 99% of the credit is yours, this is only so that lovers of the theme of course also have our
+> versions of your theme
 
 <img width=800 src="https://github.com/refact0r/midnight-discord/assets/34758569/b831a8a7-1e7f-4114-9420-cbbb8e8f184f">
 
-# midnight
+# midday
 
-a darkened discord theme with rounded chat and sidebars.
+a lightened discord theme with rounded chat and sidebars.
 
 <img width=800 src="https://github.com/refact0r/midnight-discord/assets/34758569/69de9437-8312-4949-befd-a476a56e2cee">
 
